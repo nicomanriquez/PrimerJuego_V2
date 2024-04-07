@@ -1,1 +1,2 @@
-# PrimerJuego_V2
+# correccion-corredor-infinito
+correccion del corredor infinito
